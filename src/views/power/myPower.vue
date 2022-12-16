@@ -1,6 +1,6 @@
 <template>
   <div class="main">
-    <div class="head">
+    <div class="head abcd">
         <!-- <span>用户管理</span> -->
         <el-button type="primary" @click="addPow" style="height: 40px"
           >新增</el-button>
